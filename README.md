@@ -36,7 +36,7 @@
 </div>
 
 <!-- Optional: Right-side animation gif if you have one -->
-<img align="right" alt="coding-gif" width="400" src="./assets/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca">
+<img align="right" alt="coding-gif" width="400" src="./assets/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif">
 
 **<h3 align="left">Rapid Fire</h3>**
 
