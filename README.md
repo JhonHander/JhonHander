@@ -1,4 +1,4 @@
-![👋 Hi, my name is Jhon Hander](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Jhon Hander](./assets/Generated%20Image%20September%2009%2C%202025%20-%206_01PM.png)
 
 
 
