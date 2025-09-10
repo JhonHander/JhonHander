@@ -40,11 +40,6 @@
 
 ## <div align="center">🚀 About Me</div>
 
-<div align="center">
-  
-### 💡 *Passionate Developer & AI Enthusiast*
-
-</div>
 
 ```yaml
 Daily Focus: Learning and developing software with AI integration
