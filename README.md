@@ -8,7 +8,7 @@
 -->
 <div align="center">
   <!-- Header principal -->
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&center=true&vCenter=true&width=900&height=80&duration=3000&pause=1000&color=f6f6f6&background=0F0F0F&lines=▌▐+NEURAL+NETWORK+ONLINE+▐▌;◢◤+JHON+HANDER+◥◣;▓▒░+DREAMTEAM+░▒▓;▀▄▀▄+EVG+EN+EL+MAPA+▄▀▄▀" alt="Jhon Hander Graffiti Style"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&center=true&vCenter=true&width=900&height=80&duration=3000&pause=1000&color=f6f6f6&background=&lines=▌▐+NEURAL+NETWORK+ONLINE+▐▌;◢◤+JHON+HANDER+◥◣;▓▒░+DREAMTEAM+░▒▓;▀▄▀▄+EVG+EN+EL+MAPA+▄▀▄▀" alt="Jhon Hander Graffiti Style"/>
   
   <!-- Badges complementarios -->
   <br/>
