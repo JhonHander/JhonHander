@@ -1,5 +1,6 @@
 
-![👋 Hi, my name is Jhon Hander](./assets/Generated%20Image%20September%2009%2C%202025%20-%206_01PM.png)
+
+![Mercedes girando](./assets/mercedes-spin-480.gif)
 
 <!--
 <div align="center">
