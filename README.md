@@ -1,6 +1,6 @@
 
 
-![Mercedes girando](./assets/mercedes-spin-480.gif)
+![Mercedes girando](./assets/mercedes-spin-banner.gif)
 
 <!--
 <div align="center">
