@@ -11,32 +11,39 @@
   <!-- Header principal -->
   <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=38&center=true&vCenter=true&width=900&height=80&duration=3000&pause=1000&color=f6f6f6&background=&lines=▌▐+NEURAL+NETWORK+ONLINE+▐▌;◢◤+JHON+HANDER+◥◣;▓▒░+DREAMTEAM+░▒▓;▀▄▀▄+EVG+EN+EL+MAPA+▄▀▄▀" alt="Jhon Hander Graffiti Style"/>
   
-  <!-- Badges complementarios -->
+  <!-- Badges complementarios 
   <br/>
   <img src="https://img.shields.io/badge/⊙_AI-CODER-4169E1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/⊙_DREAM-TEAM-DA70D6?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/⊙_LA MINA-DEV-00CED1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  -->
 </div>
 
 
 **<h3 align="center">Future Computer Engineer ([IUE](https://www.iue.edu.co/)), I enjoy **full stack development**, **Artificial Intelligence**, especially **GenAI, AI agents, and automation**. My goal is to design and implement solutions using modern frameworks, bring them to the cloud, and maximize performance and value for end users and businesses.</h3>**
-
+<!--
 <div align="center">
-<!-- Profile Views -->
+<!-- Profile Views
 <a href="[[https://github.com/jhonhandermejia](https://github.com/JhonHander)](https://github.com/JhonHander)" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=jhonhandermejia&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
        alt="Profile Views Badge" /></a>
 
-<!-- Total Stars with GitHub Logo -->
+<!-- Total Stars with GitHub Logo 
 <a href="https://github.com/JhonHander?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
        src="https://img.shields.io/github/stars/JhonHander?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-<!-- Followers with GitHub Logo -->
+<!-- Followers with GitHub Logo 
 <a href="https://github.com/JhonHander?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
        src="https://img.shields.io/github/followers/JhonHander?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
 </a>
+</div>
+ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/⊙_AI-CODER-4169E1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/⊙_DREAM-TEAM-DA70D6?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/⊙_LA MINA-DEV-00CED1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </div>
 
 ## <div align="center">🚀 About Me</div>
