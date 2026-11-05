@@ -15,6 +15,13 @@
 <p align="center">
   <img src="./retrato-ascii-vector.svg" alt="AI Software Engineer with a background in software engineering at IUE. I build AI-powered software, from retrieval pipelines and multi-agent workflows to language model fine-tuning and full-stack applications. My work connects software engineering with applied AI research, focusing on useful tools, reproducible experiments, and systems that can be inspected and evaluated." width="100%" />
 </p>
+
+## <div align="center">💼 Past Experience</div>
+
+- **Bancolombia — Software Engineer**, Model Risk Management (MRM) team.
+- **Genios Tecnológicos — AI Engineer**.
+- **MinCiencias — Researcher**.
+
 <!--
 <div align="center">
 <!-- Profile Views
@@ -54,7 +61,7 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 **<h3 align="left">Rapid Fire</h3>**
 
 <!-- Coding animation gif -->
-<img align="right" alt="coding-gif" width="400" src="./lets-code.gif">
+<img align="right" alt="coding-gif" width="200" src="./lets-code.gif">
 
 - 🔬 Research focus: **Spanish clinical QA, language model fine-tuning, and evaluation**
 - 🛠️ Building: **Research tools, MCP integrations, and reusable agent skills**
@@ -64,11 +71,6 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 
 <br clear="all"/>
 
-## <div align="center">💼 Past Experience</div>
-
-- **Bancolombia — Software Engineer**, Model Risk Management (MRM) team.
-- **Genios Tecnológicos — AI Engineer**.
-- **MinCiencias — Researcher**.
 
 
 
