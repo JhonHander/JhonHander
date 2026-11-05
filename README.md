@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="./retrato-ascii-vector.svg" alt="AI Software Engineer with a background in software engineering at IUE. I build AI-powered software, from retrieval pipelines and multi-agent workflows to language model fine-tuning and full-stack applications. My work connects software engineering with applied AI research, focusing on useful tools, reproducible experiments, and systems that can be inspected and evaluated. Past experience: Software Engineer in Model Risk Management at Bancolombia; AI Engineer at Genios Tecnológicos; Researcher at MinCiencias." width="100%" />
+  <img src="./retrato-ascii-experience.svg" alt="AI Software Engineer with a background in software engineering at IUE. I build AI-powered software, from retrieval pipelines and multi-agent workflows to language model fine-tuning and full-stack applications. My work connects software engineering with applied AI research, focusing on useful tools, reproducible experiments, and systems that can be inspected and evaluated. Past experience: Software Engineer in Model Risk Management at Bancolombia; AI Engineer at Genios Tecnológicos; Researcher at MinCiencias." width="100%" />
 </p>
 
 
