@@ -68,7 +68,7 @@
       <td width="78%">
         <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&amp;logoColor=white&amp;style=flat-square" alt="LangChain" height="24" />
         <img src="https://img.shields.io/badge/LangGraph-65B741?logoColor=white&amp;style=flat-square" alt="LangGraph" height="24" />
-        <img src="https://img.shields.io/badge/MCP-555555?logoColor=white&amp;style=flat-square" alt="MCP" height="24" />
+        <img src="./assets/badge-mcp.svg" alt="MCP" height="24" />
         <img src="https://img.shields.io/badge/RAG-4051B5?logoColor=white&amp;style=flat-square" alt="RAG" height="24" />
         <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&amp;logoColor=white&amp;style=flat-square" alt="Qdrant" height="24" />
         <img src="https://img.shields.io/badge/ChromaDB-FFDE59?logoColor=white&amp;style=flat-square" alt="ChromaDB" height="24" />
@@ -78,7 +78,7 @@
     <tr>
       <td width="22%"><strong>☁️ Infrastructure</strong></td>
       <td width="78%">
-        <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws&amp;logoColor=white&amp;style=flat-square" alt="AWS" height="24" />
+        <img src="./assets/badge-aws.svg" alt="AWS" height="24" />
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker" height="24" />
         <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&amp;logoColor=white&amp;style=flat-square" alt="Terraform" height="24" />
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="24" />
