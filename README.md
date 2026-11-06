@@ -17,59 +17,21 @@
 </p>
 
 
-<!--
-<div align="center">
-<!-- Profile Views
-<a href="[[https://github.com/jhonhandermejia](https://github.com/JhonHander)](https://github.com/JhonHander)" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=jhonhandermejia&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
-<!-- Total Stars with GitHub Logo 
-<a href="https://github.com/JhonHander?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/JhonHander?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-<!-- Followers with GitHub Logo 
-<a href="https://github.com/JhonHander?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/JhonHander?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
-</div>
- -->
 <div align="center">
   <img src="https://img.shields.io/badge/⊙_AI-CODER-4169E1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/⊙_DREAM-TEAM-DA70D6?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/⊙_LA MINA-DEV-00CED1?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </div>
 
-## <div align="center">🚀 About Me</div>
+## <div align="center">🚀 What I do</div>
 
-
-```yaml
-Focus: AI Engineering • Agent Systems • Applied Research
-Core Skills: Python • LangChain • LangGraph • FastAPI • TypeScript • React • Next.js
-AI & Research: RAG • MCP • QLoRA • Hugging Face • LLM Evaluation
-Infrastructure: Docker • AWS • Terraform • CI/CD
-Philosophy: Useful software, reproducible experiments, and measurable outputs
-```
-
-**<h3 align="left">Rapid Fire</h3>**
-
-<!-- Coding animation gif -->
 <img align="right" alt="Let's code" width="250" src="./lets-code.gif">
 
-<p>
-🔬 <strong>Research:</strong> Spanish clinical QA, language model fine-tuning, and evaluation<br><br>
-🛠️ <strong>Building:</strong> Research tools, MCP integrations, and reusable agent skills<br><br>
-🤖 <strong>Focus:</strong> Multi-agent orchestration, RAG, and automation<br><br>
-💬 <strong>Ask me about:</strong> GenAI, Agent Systems, and Full Stack Development<br><br>
-⚡ <strong>Fun fact:</strong> The more I learn, the less I know, but the more excited I get about possibilities
-</p>
+- 🤖 Build **AI agents and RAG systems** with a focus on practical use and evaluation.
+- 🔬 Explore **language model fine-tuning and clinical QA** through applied research.
+- 🛠️ Create **tools, APIs, and full-stack applications** that make ideas useful.
 
 <br clear="all"/>
-
-
-
 
 **<h3 align="center">Skills</h3>**
 
