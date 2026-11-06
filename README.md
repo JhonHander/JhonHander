@@ -79,63 +79,43 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 <table>
   <thead>
     <tr>
-      <th width="22%" align="left">Area</th>
-      <th width="78%" align="left">Technologies &amp; tools</th>
+      <th width="25%" align="left">Area</th>
+      <th width="75%" align="left">Focus &amp; tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="22%"><strong>💻 Software Development</strong></td>
-      <td width="78%">
+      <td width="25%"><strong>💻 Software Development</strong></td>
+      <td width="75%">
+        Web apps, backend services and REST APIs. React and Angular for frontend; Node.js with NestJS and Express, Spring Boot and FastAPI for backend; SQL integration, including MySQL.
+        <br><br>
         <img src="https://img.shields.io/badge/Python-306998?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python" height="24" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=white&amp;style=flat-square" alt="JavaScript" height="24" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=flat-square" alt="TypeScript" height="24" />
         <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&amp;logoColor=white&amp;style=flat-square" alt="Java" height="24" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?logoColor=white&amp;style=flat-square" alt="SQL" height="24" />
-        <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&amp;logoColor=white&amp;style=flat-square" alt="Node.js" height="24" />
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&amp;logoColor=white&amp;style=flat-square" alt="Express" height="24" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white&amp;style=flat-square" alt="FastAPI" height="24" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&amp;logoColor=white&amp;style=flat-square" alt="Spring Boot" height="24" />
-        <img src="https://img.shields.io/badge/React-20232A?logo=react&amp;logoColor=white&amp;style=flat-square" alt="React" height="24" />
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&amp;logoColor=white&amp;style=flat-square" alt="Next.js" height="24" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square" alt="Angular" height="24" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat-square" alt="MySQL" height="24" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&amp;logoColor=white&amp;style=flat-square" alt="PostgreSQL" height="24" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=flat-square" alt="MongoDB" height="24" />
       </td>
     </tr>
     <tr>
-      <td width="22%"><strong>🤖 AI Engineering</strong></td>
-      <td width="78%">
-        <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&amp;logoColor=white&amp;style=flat-square" alt="LangChain" height="24" />
+      <td width="25%"><strong>🤖 AI Engineering &amp; Agents</strong></td>
+      <td width="75%">
+        RAG and vector search; agent harnesses and loops; context, instructions, skills and persistent memory. Guardrails, tracing and feedback loops informed by evaluations and failure analysis.
+        <br><br>
         <img src="https://img.shields.io/badge/LangGraph-65B741?logoColor=white&amp;style=flat-square" alt="LangGraph" height="24" />
+        <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&amp;logoColor=white&amp;style=flat-square" alt="LangChain" height="24" />
         <img src="./assets/badge-mcp.svg" alt="MCP" height="24" />
-        <img src="https://img.shields.io/badge/RAG-4051B5?logoColor=white&amp;style=flat-square" alt="RAG" height="24" />
-        <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&amp;logoColor=white&amp;style=flat-square" alt="Qdrant" height="24" />
-        <img src="https://img.shields.io/badge/ChromaDB-FFDE59?logoColor=white&amp;style=flat-square" alt="ChromaDB" height="24" />
         <img src="https://img.shields.io/badge/Langfuse-000000?logoColor=white&amp;style=flat-square" alt="Langfuse" height="24" />
-      </td>
-    </tr>
-    <tr>
-      <td width="22%"><strong>☁️ Infrastructure</strong></td>
-      <td width="78%">
-        <img src="./assets/badge-aws.svg" alt="AWS" height="24" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker" height="24" />
-        <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&amp;logoColor=white&amp;style=flat-square" alt="Terraform" height="24" />
-        <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="24" />
-        <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&amp;logoColor=white&amp;style=flat-square" alt="n8n" height="24" />
-      </td>
-    </tr>
-    <tr>
-      <td width="22%"><strong>🔬 Researching</strong></td>
-      <td width="78%">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&amp;logoColor=white&amp;style=flat-square" alt="TensorFlow" height="24" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&amp;logoColor=white&amp;style=flat-square" alt="PyTorch" height="24" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&amp;logoColor=white&amp;style=flat-square" alt="Hugging Face" height="24" />
-        <img src="https://img.shields.io/badge/QLoRA-8B5CF6?logoColor=white&amp;style=flat-square" alt="QLoRA" height="24" />
-        <img src="https://img.shields.io/badge/TRL-8B5CF6?logoColor=white&amp;style=flat-square" alt="TRL" height="24" />
-        <img src="https://img.shields.io/badge/PEFT-8B5CF6?logoColor=white&amp;style=flat-square" alt="PEFT" height="24" />
-        <img src="https://img.shields.io/badge/RAGAS-10B981?logoColor=white&amp;style=flat-square" alt="RAGAS" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%"><strong>☁️ Infrastructure &amp; Automation</strong></td>
+      <td width="75%">
+        Service deployment and integration of AI-powered workflows.
+        <br><br>
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="24" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker" height="24" />
+        <img src="./assets/badge-aws.svg" alt="AWS" height="24" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&amp;logoColor=white&amp;style=flat-square" alt="n8n" height="24" />
       </td>
     </tr>
   </tbody>
