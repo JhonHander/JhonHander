@@ -56,7 +56,7 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 **<h3 align="left">Rapid Fire</h3>**
 
 <!-- Coding animation gif -->
-<img align="right" alt="coding-gif" width="200" src="./lets-code.gif">
+<img align="right" alt="coding-gif" width="260" src="./lets-code.gif">
 
 - 🔬 Research focus: **Spanish clinical QA, language model fine-tuning, and evaluation**
 - 🛠️ Building: **Research tools, MCP integrations, and reusable agent skills**
@@ -71,7 +71,70 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 
 **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="60" alt="Python" style="margin-right: 12px"> <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&logoColor=white" height="60" alt="LangChain" style="margin-right: 12px"> <img src="https://img.shields.io/badge/LangGraph-65B741?logoColor=white" height="60" alt="LangGraph" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MCP-555555?logoColor=white" height="60" alt="MCP" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="60" alt="TensorFlow" style="margin-right: 12px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="60" alt="PyTorch" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=white" height="60" alt="Hugging Face" style="margin-right: 12px"> <img src="https://img.shields.io/badge/QLoRA-8B5CF6?logoColor=white" height="60" alt="QLoRA" style="margin-right: 12px"> <img src="https://img.shields.io/badge/RAGAS-10B981?logoColor=white" height="60" alt="RAGAS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white" height="60" alt="Qdrant" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Langfuse-000000?logoColor=white" height="60" alt="Langfuse" style="margin-right: 12px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="60" alt="FastAPI" style="margin-right: 12px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" height="60" alt="JavaScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="60" alt="TypeScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="60" alt="Express" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="60" alt="Node.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" height="60" alt="React" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="60" alt="Next.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="60" alt="MySQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="60" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="60" alt="Docker" style="margin-right: 12px"> <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white" height="60" alt="AWS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" height="60" alt="Terraform" style="margin-right: 12px"></div>
+<table>
+  <thead>
+    <tr>
+      <th width="22%" align="left">Area</th>
+      <th width="78%" align="left">Technologies &amp; tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="22%"><strong>💻 Software Development</strong></td>
+      <td width="78%">
+        <img src="https://img.shields.io/badge/Python-306998?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python" height="24" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=white&amp;style=flat-square" alt="JavaScript" height="24" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=flat-square" alt="TypeScript" height="24" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&amp;logoColor=white&amp;style=flat-square" alt="Java" height="24" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?logoColor=white&amp;style=flat-square" alt="SQL" height="24" />
+        <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&amp;logoColor=white&amp;style=flat-square" alt="Node.js" height="24" />
+        <img src="https://img.shields.io/badge/Express-000000?logo=express&amp;logoColor=white&amp;style=flat-square" alt="Express" height="24" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white&amp;style=flat-square" alt="FastAPI" height="24" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&amp;logoColor=white&amp;style=flat-square" alt="Spring Boot" height="24" />
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&amp;logoColor=white&amp;style=flat-square" alt="React" height="24" />
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&amp;logoColor=white&amp;style=flat-square" alt="Next.js" height="24" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square" alt="Angular" height="24" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat-square" alt="MySQL" height="24" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&amp;logoColor=white&amp;style=flat-square" alt="PostgreSQL" height="24" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=flat-square" alt="MongoDB" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td width="22%"><strong>🤖 AI Engineering</strong></td>
+      <td width="78%">
+        <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&amp;logoColor=white&amp;style=flat-square" alt="LangChain" height="24" />
+        <img src="https://img.shields.io/badge/LangGraph-65B741?logoColor=white&amp;style=flat-square" alt="LangGraph" height="24" />
+        <img src="https://img.shields.io/badge/MCP-555555?logoColor=white&amp;style=flat-square" alt="MCP" height="24" />
+        <img src="https://img.shields.io/badge/RAG-4051B5?logoColor=white&amp;style=flat-square" alt="RAG" height="24" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&amp;logoColor=white&amp;style=flat-square" alt="Qdrant" height="24" />
+        <img src="https://img.shields.io/badge/ChromaDB-FFDE59?logoColor=white&amp;style=flat-square" alt="ChromaDB" height="24" />
+        <img src="https://img.shields.io/badge/Langfuse-000000?logoColor=white&amp;style=flat-square" alt="Langfuse" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td width="22%"><strong>☁️ Infrastructure</strong></td>
+      <td width="78%">
+        <img src="https://img.shields.io/badge/AWS-orange?logo=amazon-aws&amp;logoColor=white&amp;style=flat-square" alt="AWS" height="24" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker" height="24" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&amp;logoColor=white&amp;style=flat-square" alt="Terraform" height="24" />
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="24" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&amp;logoColor=white&amp;style=flat-square" alt="n8n" height="24" />
+      </td>
+    </tr>
+    <tr>
+      <td width="22%"><strong>🔬 Researching</strong></td>
+      <td width="78%">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&amp;logoColor=white&amp;style=flat-square" alt="TensorFlow" height="24" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&amp;logoColor=white&amp;style=flat-square" alt="PyTorch" height="24" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&amp;logoColor=white&amp;style=flat-square" alt="Hugging Face" height="24" />
+        <img src="https://img.shields.io/badge/QLoRA-8B5CF6?logoColor=white&amp;style=flat-square" alt="QLoRA" height="24" />
+        <img src="https://img.shields.io/badge/TRL-8B5CF6?logoColor=white&amp;style=flat-square" alt="TRL" height="24" />
+        <img src="https://img.shields.io/badge/PEFT-8B5CF6?logoColor=white&amp;style=flat-square" alt="PEFT" height="24" />
+        <img src="https://img.shields.io/badge/RAGAS-10B981?logoColor=white&amp;style=flat-square" alt="RAGAS" height="24" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
  **<h3 align="left">GitHub Stats</h3>**
 
