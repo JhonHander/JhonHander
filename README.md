@@ -85,7 +85,7 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><strong>💻 Software Development</strong></td>
+      <td width="25%"><strong>Software Development</strong></td>
       <td width="75%">
         <img src="https://img.shields.io/badge/Python-306998?logo=python&amp;logoColor=white&amp;style=flat-square" alt="Python" height="24" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=white&amp;style=flat-square" alt="JavaScript" height="24" />
@@ -103,7 +103,7 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
       </td>
     </tr>
     <tr>
-      <td width="25%"><strong>🤖 AI Engineering &amp; Agents</strong></td>
+      <td width="25%"><strong>AI Engineering &amp; Agents</strong></td>
       <td width="75%">
         <img src="https://img.shields.io/badge/LangGraph-65B741?logoColor=white&amp;style=flat-square" alt="LangGraph" height="24" />
         <img src="https://img.shields.io/badge/LangChain-40A383?logo=chainlink&amp;logoColor=white&amp;style=flat-square" alt="LangChain" height="24" />
@@ -115,7 +115,7 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
       </td>
     </tr>
     <tr>
-      <td width="25%"><strong>☁️ Infrastructure &amp; Automation</strong></td>
+      <td width="25%"><strong>Infrastructure &amp; Automation</strong></td>
       <td width="75%">
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=white&amp;style=flat-square" alt="Git" height="24" />
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat-square" alt="Docker" height="24" />
