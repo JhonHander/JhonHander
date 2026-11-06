@@ -141,6 +141,6 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=JhonHander&theme=react&show_icons=true&hide_border=false&card_width=400" alt="GitHub activity stats" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JhonHander&theme=react&layout=compact&langs_count=6&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=JhonHander&theme=react&show_icons=true&hide_border=false&hide_rank=true&line_height=24&card_width=400" alt="GitHub activity stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JhonHander&theme=react&layout=compact&langs_count=8&card_width=402" alt="GitHub top-langs Card" />
 </p>
