@@ -56,13 +56,15 @@ Philosophy: Useful software, reproducible experiments, and measurable outputs
 **<h3 align="left">Rapid Fire</h3>**
 
 <!-- Coding animation gif -->
-<img align="right" alt="coding-gif" width="260" src="./lets-code.gif">
+<img align="right" alt="Let's code" width="250" src="./lets-code.gif">
 
-- 🔬 Research focus: **Spanish clinical QA, language model fine-tuning, and evaluation**
-- 🛠️ Building: **Research tools, MCP integrations, and reusable agent skills**
-- 🤖 Engineering focus: **Multi-agent orchestration, RAG, and automation**
-- 💬 Ask me about: **GenAI, Agent Systems, Full Stack Development**
-- ⚡ Fun fact: **The more I learn, the less I know, but the more excited I get about possibilities**
+<p>
+🔬 <strong>Research:</strong> Spanish clinical QA, language model fine-tuning, and evaluation<br><br>
+🛠️ <strong>Building:</strong> Research tools, MCP integrations, and reusable agent skills<br><br>
+🤖 <strong>Focus:</strong> Multi-agent orchestration, RAG, and automation<br><br>
+💬 <strong>Ask me about:</strong> GenAI, Agent Systems, and Full Stack Development<br><br>
+⚡ <strong>Fun fact:</strong> The more I learn, the less I know, but the more excited I get about possibilities
+</p>
 
 <br clear="all"/>
 
