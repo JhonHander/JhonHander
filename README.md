@@ -14,8 +14,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/JhonHander/JhonHander/main/retrato-ascii-mobile-v2.svg" />
-    <img src="./retrato-ascii-experience.svg" alt="AI Software Engineer with a background in software engineering at IUE. I build AI-powered software, from retrieval pipelines and multi-agent workflows to language model fine-tuning and full-stack applications. My work connects software engineering with applied AI research, focusing on useful tools, reproducible experiments, and systems that can be inspected and evaluated. Past experience: Software Engineer in Model Risk Management at Bancolombia; AI Engineer at Genios Tecnológicos; Researcher at MinCiencias." width="100%" />
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/JhonHander/JhonHander/main/retrato-ascii-10-mobile.svg" />
+    <img src="./retrato-ascii-10-desktop.svg" alt="AI Software Engineer with a background in software engineering at IUE. I build AI-powered software, from retrieval pipelines and multi-agent workflows to language model fine-tuning and full-stack applications. My work connects software engineering with applied AI research, focusing on useful tools, reproducible experiments, and systems that can be inspected and evaluated. Past experience: Software Engineer in Model Risk Management at Bancolombia; AI Engineer at Genios Tecnológicos; Researcher at MinCiencias." width="100%" />
   </picture>
 </p>
 
